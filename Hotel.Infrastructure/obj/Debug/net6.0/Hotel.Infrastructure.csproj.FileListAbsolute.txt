@@ -1,0 +1,17 @@
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Infrastructure.deps.json
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Infrastructure.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Infrastructure.pdb
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.AssemblyInfo.cs
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\refint\Hotel.Infrastructure.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.pdb
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\ref\Hotel.Infrastructure.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Application.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Domain.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Application.pdb
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\bin\Debug\net6.0\Hotel.Domain.pdb
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Infrastructure\obj\Debug\net6.0\Hotel.Infrastructure.csproj.CopyComplete

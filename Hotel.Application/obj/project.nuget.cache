@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KD6dJU8h4+A0IldNPTniD1biGzBKofeIQ5W0dskUFJElURMClfLBSA6xxUU/t/H64Gztyuwt64caO9Uvz/KzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\repositories\\TravelLinePractice\\Lesson6\\HW\\Hotel\\Hotel.Application\\Hotel.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

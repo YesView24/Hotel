@@ -1,0 +1,12 @@
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\bin\Debug\net6.0\Hotel.Domain.deps.json
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\bin\Debug\net6.0\Hotel.Domain.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\bin\Debug\net6.0\Hotel.Domain.pdb
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.csproj.AssemblyReference.cache
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.AssemblyInfoInputs.cache
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.AssemblyInfo.cs
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\refint\Hotel.Domain.dll
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\Hotel.Domain.pdb
+C:\Users\david\repositories\TravelLinePractice\Lesson6\HW\Hotel\Hotel.Domain\obj\Debug\net6.0\ref\Hotel.Domain.dll

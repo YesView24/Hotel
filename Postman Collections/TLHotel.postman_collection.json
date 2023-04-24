@@ -1,0 +1,417 @@
+{
+	"info": {
+		"_postman_id": "12ebac31-dbab-4c7e-8165-0041be001ef0",
+		"name": "TLHotel",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19538463"
+	},
+	"item": [
+		{
+			"name": "Guests",
+			"item": [
+				{
+					"name": "GetById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/guests/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"guests",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAll",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/guests",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"guests"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\": \"Valera\",\r\n    \"PhoneNumber\": \"123321\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5094/guests",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"guests"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\": \"New Name\",\r\n    \"PhoneNumber\": \"New PhoneNumber\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5094/guests/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"guests",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/guests/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"guests",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Reservations",
+			"item": [
+				{
+					"name": "GetById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/reservations/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"reservations",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAll",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/reservations",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"reservations"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"startDate\": \"2023-02-07T13:39:10.4846165\",\r\n    \"endDate\": \"2028-02-07T10:39:10.4847737\",\r\n    \"guestId\": 5,\r\n    \"roomId\": 3\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5094/reservations",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"reservations"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/reservations/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"reservations",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Rooms",
+			"item": [
+				{
+					"name": "GetById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/rooms/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAll",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/rooms",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAllEmpty",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/rooms/empty",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms",
+								"empty"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Number\": \"10temp\",\r\n    \"Description\": \"temp\",\r\n    \"Capacity\": 10\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5094/rooms",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "AddGuest",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"startDate\": \"2023-04-17T03:05:31.9252053\",\r\n    \"endDate\": \"2023-08-20T03:05:31.9252054\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5094/rooms/1/guests/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms",
+								"1",
+								"guests",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Number\": \"5t\",\r\n    \"Description\": \"temp\",\r\n    \"Capacity\": 8\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5094/rooms/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/rooms/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "RemoveGuest",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5094/rooms/1/guests/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5094",
+							"path": [
+								"rooms",
+								"1",
+								"guests",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
